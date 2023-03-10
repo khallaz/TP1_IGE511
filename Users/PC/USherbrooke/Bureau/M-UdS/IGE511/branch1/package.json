@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "bootstrap": "^5.2.3"
+  },
+  "name": "ige511-tp3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierthiffault/ige511-tp3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivierthiffault/ige511-tp3/issues"
+  },
+  "homepage": "https://github.com/olivierthiffault/ige511-tp3#readme",
+  "description": "Initialize project and install dependencies via npm:  \r npm init -y  \r npm install bootstrap@v5.2.3  \r npm install --save @fortawesome/fontawesome-free"
+}
